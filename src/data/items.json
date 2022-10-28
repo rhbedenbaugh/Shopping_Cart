@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name":"Rocket",
+    "price": 1000000,
+    "imgUrl": "https://media.istockphoto.com/photos/space-shuttle-rocket-launch-in-the-clouds-with-stars-to-outer-space-picture-id1346401654?b=1&k=20&m=1346401654&s=170667a&w=0&h=y_LvMsx_EIjmsEq5AvP4M_ez7Dw_R6XExBXrE_-P0eg="
+  },
+  {
+    "id": 2,
+    "name":"Lair",
+    "price": 2.09,
+    "imgUrl": "https://st.depositphotos.com/1062486/3272/i/450/depositphotos_32728761-stock-photo-mystic-ladder.jpg"
+  },
+  {
+    "id": 3,
+    "name":"T-Rex",
+    "price": 18.99,
+    "imgUrl": "https://static01.nyt.com/images/2019/03/05/science/05SCI-TREX4/merlin_151445202_59711586-3e14-4e3b-babf-836f39e0684f-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+  },
+  {
+    "id": 4,
+    "name":"Cocoa Puffs",
+    "price": 5,
+    "imgUrl": "https://whatgreatgrandmaate.com/wp-content/uploads/2020/09/keto-cocoa-puffs-sq-scaled.jpg"
+  }
+]
